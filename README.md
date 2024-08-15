@@ -1,7 +1,6 @@
 # xingerjun
-My personal repository
 
-Hi there! 👋 I'm Xinxin Guo, from China 🌏 .
+**Hi there! 👋 I'm Xinxin Guo, from China 🌏 .**
 
 * 🔍 I am currently a beginner bioinformatics engineering;
 * 🌀 I am also a runoob genomics scentific researcher and research assistant;
